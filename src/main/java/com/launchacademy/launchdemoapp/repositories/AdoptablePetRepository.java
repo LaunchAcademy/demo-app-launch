@@ -1,6 +1,6 @@
-package com.launchacademy.javaspringadoptapet.repositories;
+package com.launchacademy.launchdemoapp.repositories;
 
-import com.launchacademy.javaspringadoptapet.models.AdoptablePet;
+import com.launchacademy.launchdemoapp.models.AdoptablePet;
 import java.util.List;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.PagingAndSortingRepository;

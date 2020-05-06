@@ -11,8 +11,8 @@
 	<groupId>com.launchacademy</groupId>
 	<artifactId>java-spring-adopt-a-pet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>java-spring-adopt-a-pet</name>
-	<description>React Java Adopt A Pet</description>
+	<name>launch-demo-app</name>
+	<description>App to deploy to heroku</description>
 
 	<properties>
 		<java.version>11</java.version>

@@ -1,7 +1,7 @@
-package com.launchacademy.javaspringadoptapet.controllers.api.v1;
+package com.launchacademy.launchdemoapp.controllers.api.v1;
 
-import com.launchacademy.javaspringadoptapet.models.AdoptablePet;
-import com.launchacademy.javaspringadoptapet.repositories.AdoptablePetRepository;
+import com.launchacademy.launchdemoapp.models.AdoptablePet;
+import com.launchacademy.launchdemoapp.repositories.AdoptablePetRepository;
 import lombok.NoArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

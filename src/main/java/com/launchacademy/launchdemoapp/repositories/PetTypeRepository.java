@@ -1,6 +1,6 @@
-package com.launchacademy.javaspringadoptapet.repositories;
+package com.launchacademy.launchdemoapp.repositories;
 
-import com.launchacademy.javaspringadoptapet.models.PetType;
+import com.launchacademy.launchdemoapp.models.PetType;
 import org.springframework.data.repository.PagingAndSortingRepository;
 
 public interface PetTypeRepository extends PagingAndSortingRepository<PetType, Integer> {

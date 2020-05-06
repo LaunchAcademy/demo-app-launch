@@ -1,7 +1,7 @@
-package com.launchacademy.javaspringadoptapet.controllers.api.v1;
+package com.launchacademy.launchdemoapp.controllers.api.v1;
 
-import com.launchacademy.javaspringadoptapet.models.PetType;
-import com.launchacademy.javaspringadoptapet.repositories.PetTypeRepository;
+import com.launchacademy.launchdemoapp.models.PetType;
+import com.launchacademy.launchdemoapp.repositories.PetTypeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

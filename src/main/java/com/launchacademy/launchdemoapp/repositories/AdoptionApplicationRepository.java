@@ -1,6 +1,6 @@
-package com.launchacademy.javaspringadoptapet.repositories;
+package com.launchacademy.launchdemoapp.repositories;
 
-import com.launchacademy.javaspringadoptapet.models.AdoptionApplication;
+import com.launchacademy.launchdemoapp.models.AdoptionApplication;
 import org.springframework.data.repository.PagingAndSortingRepository;
 
 public interface AdoptionApplicationRepository extends PagingAndSortingRepository<AdoptionApplication, Integer> {

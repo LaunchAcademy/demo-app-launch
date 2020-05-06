@@ -1,9 +1,9 @@
-package com.launchacademy.javaspringadoptapet.seeders;
+package com.launchacademy.launchdemoapp.seeders;
 
-import com.launchacademy.javaspringadoptapet.models.AdoptablePet;
-import com.launchacademy.javaspringadoptapet.models.PetType;
-import com.launchacademy.javaspringadoptapet.repositories.AdoptablePetRepository;
-import com.launchacademy.javaspringadoptapet.repositories.PetTypeRepository;
+import com.launchacademy.launchdemoapp.models.AdoptablePet;
+import com.launchacademy.launchdemoapp.models.PetType;
+import com.launchacademy.launchdemoapp.repositories.AdoptablePetRepository;
+import com.launchacademy.launchdemoapp.repositories.PetTypeRepository;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

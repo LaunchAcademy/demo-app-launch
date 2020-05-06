@@ -1,7 +1,7 @@
-package com.launchacademy.javaspringadoptapet.controllers.api.v1;
+package com.launchacademy.launchdemoapp.controllers.api.v1;
 
-import com.launchacademy.javaspringadoptapet.models.AdoptionApplication;
-import com.launchacademy.javaspringadoptapet.repositories.AdoptionApplicationRepository;
+import com.launchacademy.launchdemoapp.models.AdoptionApplication;
+import com.launchacademy.launchdemoapp.repositories.AdoptionApplicationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.BindingResult;

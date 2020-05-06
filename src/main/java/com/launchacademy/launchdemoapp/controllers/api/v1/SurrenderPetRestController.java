@@ -1,7 +1,7 @@
-package com.launchacademy.javaspringadoptapet.controllers.api.v1;
+package com.launchacademy.launchdemoapp.controllers.api.v1;
 
-import com.launchacademy.javaspringadoptapet.models.SurrenderPet;
-import com.launchacademy.javaspringadoptapet.repositories.SurrenderPetRepository;
+import com.launchacademy.launchdemoapp.models.SurrenderPet;
+import com.launchacademy.launchdemoapp.repositories.SurrenderPetRepository;
 import javax.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

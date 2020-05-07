@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.launchacademy</groupId>
-	<artifactId>java-spring-adopt-a-pet</artifactId>
+	<artifactId>launch-demo-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>launch-demo-app</name>
 	<description>App to deploy to heroku</description>
